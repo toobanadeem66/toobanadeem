@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Tooba+Nadeem!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Tooba+Nadeem!)](https://git.io/typing-svg)
 
 
 ## 🙋‍♂️ About Me
@@ -114,6 +114,22 @@
   </tr>
   <tr>
     <td> Implemented Frontend and database concepts of create, read, update and delete to form an e-commerce website. Functionalities: Signup | Login | Cart | Wishlist | Order-History | Users Profile.
+    </td>
+  </tr>
+</table>
+
+
+### 🌐 Java app Developed
+<table>
+  <tr>
+    <td align="Center">Forecast Daily</td>
+  </tr>
+  <tr>
+<td align="Center"><img src="https://user-images.githubusercontent.com/86964963/175284910-5ee86f85-41df-441a-ac10-a8e97be2652c.gif" width=380 height=220></td>
+</td>
+  </tr>
+  <tr>
+    <td> Integrated OpenWeather API to report live weather information, JFreeChart to show weather statistics from live data coming in from API and displayed Global warming information according to area. Created fully functional User login and Guest Version GUI of application.
     </td>
   </tr>
 </table>
