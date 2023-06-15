@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 📝 I’m currently working on **SaaS Restaurant POS website**
+- 📝 I’m currently taking a course on **Generative AI**
 
-- 🌱 I’m currently enhancing my **Frontend and backend development** skills
+- 🌱 I’m currently enhancing my **Mobile Application Development** skills
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,6 +16,10 @@
 ## 👨‍💻 Languages:
 
 <p align="start"> 
+    <!-- Flutter -->
+    <a href="https://flutter.dev/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/> 
+    </a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> 
